@@ -1,0 +1,7 @@
+Telcomarketing Analysis 
+-explore the churning customer base of a telcomarketing company
+  -whether or not there are clusters within the dataset
+  -from these clusters, if there are distinguishable customer groups worth saving from churn
+-found Have-More (high paying customers) and Want-More (low paying, but frequently calling customer service customers) groups within Churned dataset
+  -recommended to focus customer retention on Have-More group
+-rest of dataset unable to be clustered
