@@ -16,3 +16,27 @@ Which factors contribute to client churn? How can churn rate be reduced?
 
 This assignment uses the telcomarketing dataset for clustering. The target independent variable is Churn.
 
+---
+
+### Problem Statement:
+
+
+### Outcomes Predictions:
+
+
+### Data Acquisition:
+
+
+### Data Preparation: 
+
+
+### Universe Description:
+
+
+### Modeling:
+
+
+### Model Evaluation:
+
+
+### Deliverable:
